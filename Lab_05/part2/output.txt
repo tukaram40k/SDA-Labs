@@ -1,0 +1,3 @@
+Deposit: 13
+Payroll: 11
+Pensioner bonus program: 6

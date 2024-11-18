@@ -1,0 +1,11 @@
+Element found on position 5:
+{
+    Account number: 30
+    Name: Lauren
+    Surname: Martinez
+    Account type: deposit
+    Opening date: 7.5.20
+    Opening balance: 79000
+    Date of the last access: 12.8.22
+
+}

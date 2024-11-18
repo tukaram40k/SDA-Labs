@@ -1,0 +1,10 @@
+Element found on position 3:
+{
+    Account number: 28
+    Name: Ryan
+    Surname: Moore
+    Account type: deposit
+    Opening date: 3.9.22
+    Opening balance: 54000
+    Date of the last access: 10.1.25
+}
